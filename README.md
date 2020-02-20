@@ -21,7 +21,7 @@ Within this TopTierRestaurant dataset, the cities with the highest number of res
 
 The median age of cambridge population is around 30 years.
 
-This is the list of the top 15 cities with the highest number of restaurants in the YELP dataset and the median age of their population:
+This is the list of the top 15 cities with the highest number of restaurants in the TopTierRestaurant dataset and the median age of their population:
 
 Cities (median age, years)
 1. Las Vegas (~38)
@@ -46,7 +46,7 @@ Of these cities, the cities that has similar demographics & academic settings as
 
 A subset of the dataframe containing restaurants only from the above mentioned cities was then created
 
-The 'categories' index is a [list] of descriptive words of each restaurant:
+The 'categories' index is a [list] of descriptive words of each restaurant (describing the type of restaurant):
 
 ![categorylist](images/catlist.JPG)
 
