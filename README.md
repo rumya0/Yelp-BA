@@ -1,5 +1,5 @@
 # Restaurant analytics using the YELP dataset
-# Challenge: What type of restaurant to open in Cambridge, Massachusetts?
+## Challenge: What type of restaurant to open in Cambridge, Massachusetts?
 
 For this challenge, we are using the YELP dataset that does not contain restaurant data from Massachusetts.
 
