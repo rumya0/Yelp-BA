@@ -1,20 +1,20 @@
 # Restaurant analytics using the YELP dataset
 ## Challenge: What type of restaurant to open in Cambridge, Massachusetts?
 
-For this challenge, we are using the YELP dataset that does not contain restaurant data from Massachusetts.
+For this challenge, a recommendation has to be made on the type of restaurant that is potentially lucrative in Cambridge, MA
+We will use the YELP dataset for the analytics, however, the dataset **does not** contain information on restaurants in the Massachusetts area.
 
+Therefore, we will look at cities in the YELP dataset that closely resemble Cambridge, MA in terms of population demographics and academic settings
+
+### A little something about Cambridge
 According to the 2013 - 2017 American Community Survey, 30.2% of population 18 or older in Cambridge is 
-enrolled full-time or part-time in a college or graduate school degree program. 
-
-In 2017, the median age of all people in Cambridge, MA was 30.4. Native-born citizens, with a median age of 29, 
-were generally younger than than foreign-born citizens, with a median age of 33. But people in Cambridge, MA are 
-getting getting younger. In 2016, the average age of all Cambridge, MA residents was 31.
+enrolled full-time or part-time in a college or graduate school degree program. In 2017, the median age of all people in Cambridge, MA was 30.4. Native-born citizens, with a median age of 29, were generally younger than than foreign-born citizens, with a median age of 33. But people in Cambridge, MA are getting getting younger. In 2016, the average age of all Cambridge, MA residents was 31.
 
 Within the YELP dataset, the cities that had the most restaurant data are (in descending order): 
 
 ![highestrest](images/highestres.JPG) 
 
-The median age of cambridge population is 31 years
+The median age of cambridge population is around 30 years
 
 This is the list of the top 15 cities with the highest number of restaurants in the YELP dataset and the median age of their population:
 
