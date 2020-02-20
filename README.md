@@ -43,9 +43,9 @@ Cities (median age, years)
 Of these cities, the cities that has similar demographics & academic settings as Cambridge are:
 #### Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
 
-A subset of the dataframe containing restaurants only from the above mentioned cities was then created. This dataset contains TopTierRestaurants in CitiesLikeCambridge:
+A subset of the TopTierRestaurant dataframe containing restaurants only from Cities like Cambridge was then created. We will call this dataset 'TopTierRestaurants in CitiesLikeCambridge' (Yes, it is a long name, but doesn't it bring home the whole point!)
 
-The dataframe contains an index called 'categories'. The 'categories' index is a [list] of descriptive words of each restaurant (describing the type of restaurant). We will use this 'categories' index to assess the type of TopTierRestaurants in CitiesLikeCambridge:
+The dataframe contains an index called 'categories'. The 'categories' index is a [list] of descriptive words of each restaurant (describing the type of restaurant). We will use this 'categories' index to assess the type of restaurants in the 'TopTierRestaurants in CitiesLikeCambridge' dataset:
 
 ![categorylist](images/catlist.JPG)
 
@@ -56,7 +56,7 @@ The image below shows the descriptive words that most commonly occured in this d
 ![topcategory](images/topcat.JPG)
 
 Based on these descriptive items:
-The types of restaurants that most commonly do well in cities like Cambridge, MA are:
+The types of restaurants that most commonly do well (aka, are Top Tier) in cities like Cambridge, MA are:
 
 1. Bars
 2. American
