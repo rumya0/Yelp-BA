@@ -41,12 +41,11 @@ Cities (median age, years)
 15. Glendale (~34)
 
 Of these cities, the cities that has similar demographics & academic settings as Cambridge are:
-
 #### Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
 
-A subset of the dataframe containing restaurants only from the above mentioned cities was then created
+A subset of the dataframe containing restaurants only from the above mentioned cities was then created. This dataset contains TopTierRestaurants in CitiesLikeCambridge:
 
-The 'categories' index is a [list] of descriptive words of each restaurant (describing the type of restaurant):
+The dataframe contains an index called 'categories'. The 'categories' index is a [list] of descriptive words of each restaurant (describing the type of restaurant). We will use this 'categories' index to assess the type of TopTierRestaurants in CitiesLikeCambridge:
 
 ![categorylist](images/catlist.JPG)
 
