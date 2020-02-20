@@ -12,6 +12,8 @@ getting getting younger. In 2016, the average age of all Cambridge, MA residents
 
 Within the YELP dataset, the cities that had the most restaurant data are (in descending order): 
 
+![highestrest](images/highestres.JPG)
+
 City (Median age of the population)
 
 CAMBRIDGE (~31)
@@ -36,7 +38,7 @@ Of these cities, the cities that has similar demographics & academic settings as
 
 Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
 
-
+TODO:Add
 
 
 
