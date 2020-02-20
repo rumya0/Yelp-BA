@@ -14,11 +14,11 @@ Within the YELP dataset, the cities that had the most restaurant data are (in de
 
 ![highestrest](images/highestres.JPG) 
 
+The median age of cambridge population is 31 years
 
-City (Median age of the population)
+This is the list of the top 15 cities with the highest number of restaurants in the YELP dataset and the median age of their population:
 
-CAMBRIDGE (~31)
-
+Cities (median age, years)
 1. Las Vegas (~38)
 2. Toronto (~40)
 3. Montreal (~40)
@@ -37,19 +37,21 @@ CAMBRIDGE (~31)
 
 Of these cities, the cities that has similar demographics & academic settings as Cambridge are:
 
-Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
+#### Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
 
-A subset of the dataframe containing restaurants only from the above mentioned cities was created
+A subset of the dataframe containing restaurants only from the above mentioned cities was then created
 
-The 'categories' index is a [list] of descriptive words of each restaurant
+The 'categories' index is a [list] of descriptive words of each restaurant:
+
 ![categorylist](images/catlist.JPG)
 
 The 'categories' list was unpacked and the frequency of each descriptive item was measured
 
-The image below shows the descriptive words that most commonly occured in this dataset
+The image below shows the descriptive words that most commonly occured in this dataset:
+
 ![topcategory](images/topcat.JPG)
 
-
+Based on these descriptive items:
 The types of restaurants that most commonly do well in cities like Cambridge, MA are:
 
 1. Bars
