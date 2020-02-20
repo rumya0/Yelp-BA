@@ -71,7 +71,7 @@ The types of restaurants that most commonly do well (aka, are Top Tier) in citie
 
 We can broadly classify the 10 items into 3 types of restaurants:
 
-1. Bars
+1. Bars serving American food
 2. Breakfast/ Brunch places that serve hot beverages (tea, coffee) and sandwiches
 3. Mexican 
 
