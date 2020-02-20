@@ -19,7 +19,8 @@ Within this TopTierRestaurant dataset, the cities with the highest number of res
 ![highestrest](images/highestres.JPG) 
 
 
-The median age of cambridge population is around 30 years
+The median age of cambridge population is around 30 years.
+
 This is the list of the top 15 cities with the highest number of restaurants in the YELP dataset and the median age of their population:
 
 Cities (median age, years)
