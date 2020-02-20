@@ -12,7 +12,8 @@ getting getting younger. In 2016, the average age of all Cambridge, MA residents
 
 Within the YELP dataset, the cities that had the most restaurant data are (in descending order): 
 
-![highestrest](images/highestres.JPG)
+![highestrest](images/highestres.JPG) 
+
 
 City (Median age of the population)
 
@@ -38,7 +39,34 @@ Of these cities, the cities that has similar demographics & academic settings as
 
 Phoenix, Pittsburgh, Charlotte, Cleveland, Mesa, Tempe, Madison, Missisauga, Glendale
 
-TODO:Add
+A subset of the dataframe containing restaurants only from the above mentioned cities was created
+
+The 'categories' index is a [list] of descriptive words of each restaurant
+![categorylist](images/catlist.JPG)
+
+The 'categories' list was unpacked and the frequency of each descriptive item was measured
+
+The image below shows the descriptive words that most commonly occured in this dataset
+![topcategory](images/topcat.JPG)
 
 
+The types of restaurants that most commonly do well in cities like Cambridge, MA are:
 
+1. Bars
+2. American
+3. Coffee
+4. Tea
+5. Sandwiches
+6. Breakfast
+7. Brunch
+8. Nightlife
+9. Cafes
+10. Mexican
+
+We can broadly classify the 10 items into 3 types of restaurants:
+
+1. Bars
+2. Breakfast/ Brunch places that serve hot beverages (tea, coffee) and sandwiches
+3. Mexican 
+
+The findings reveal that the above mentioned three types of restaurants have a good chance of fairing well in a city like Cambridge, MA
