@@ -51,7 +51,7 @@ The dataframe contains an index called 'categories'. The 'categories' index is a
 
 The 'categories' list was unpacked and the frequency of each descriptive item was measured
 
-The image below shows the descriptive words that most commonly occured in this dataset:
+The image below shows the descriptive words that are most common in our 'TopTierRestaurants in CitiesLikeCambridge' dataset:
 
 ![topcategory](images/topcat.JPG)
 
