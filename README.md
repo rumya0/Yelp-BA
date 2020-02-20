@@ -1,7 +1,7 @@
 # Restaurant analytics using the YELP dataset
 ## Challenge: What type of restaurant to open in Cambridge, Massachusetts?
 
-For this challenge, a recommendation has to be made on the type of restaurant that is potentially lucrative in Cambridge, MA
+For this challenge, a recommendation has to be made on the type of restaurant that is potentially lucrative in Cambridge, MA.
 We will use the YELP dataset for the analytics, however, the dataset **does not** contain information on restaurants in the Massachusetts area.
 
 Therefore, we will look at cities in the YELP dataset that closely resemble Cambridge, MA in terms of population demographics and academic settings
